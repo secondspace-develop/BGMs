@@ -1,0 +1,12 @@
+version: 1.0.1
+files:
+  - url: BGMs-1.0.1-mac.zip
+    sha512: cdKtMQySxTBzE/QhYUZvloj2gAmgcxgfMDBmORPJ9jatfAVNvf48KqcTIEYfcYYCcJBOpD/c7Flchz03oiUq3w==
+    size: 87609144
+    blockMapSize: 93019
+  - url: BGMs-1.0.1.dmg
+    sha512: NzICZUEV3VqoR/ULIFN3Du6xEmWmvObVFga5jhcvrRjsFbfJHAkVvO0puwJ54M05OrEvrFqd4BHzM7VIMwHcFA==
+    size: 90463623
+path: BGMs-1.0.1-mac.zip
+sha512: cdKtMQySxTBzE/QhYUZvloj2gAmgcxgfMDBmORPJ9jatfAVNvf48KqcTIEYfcYYCcJBOpD/c7Flchz03oiUq3w==
+releaseDate: '2021-04-08T13:43:14.078Z'
